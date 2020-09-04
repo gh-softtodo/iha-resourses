@@ -1,0 +1,18 @@
+<svg width="23" height="23" xmlns="http://www.w3.org/2000/svg">
+ <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+
+ <title>icon-arrow-back</title>
+ <desc>Created with Sketch.</desc>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g transform="rotate(-180, 11.502, 11.4844)" fill-rule="evenodd" fill="none" id="Layout-Desktop">
+   <g fill-rule="nonzero" fill="#86A1B3" id="IHA-News/Blogpost">
+    <path id="icon-arrow-back" d="m11.343002,0.0039l0.707108,0.715861l-10.106812,10.231219l21.027679,0.000742l0,1.012401l-21.036682,-0.000741l10.065018,10.287265l-0.710464,0.712461l-10.946548,-11.189057l-0.313004,-0.316128l0.001007,-0.001731l-0.000992,-0.00173l0.35498,-0.356664l10.95871,-11.093898z"/>
+   </g>
+  </g>
+ </g>
+</svg>
